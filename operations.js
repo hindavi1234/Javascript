@@ -26,3 +26,17 @@ console.log(`x:${x}, y:${y}`);
 let a = 4;
 const b = ++a;
 console.log(`a:${a}, b:${b}`);
+
+// comparison
+console.log("2">1);
+console.log("04">1);
+
+console.log(null>0)
+console.log(null == 0)
+console.log(null >= 0)
+console.log("_____________________________")
+console.log(undefined>0)
+console.log(undefined == 0)
+console.log(undefined >= 0)
+console.log("_____________________________")
+console.log("2" === 2)
